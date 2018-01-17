@@ -9,3 +9,14 @@ C:\Repositories\AsyncInternals\AsyncInternals\CustomAwaitable\bin\Debug\netcorea
 C:\Repositories\AsyncInternals\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.pdb
 C:\Repositories\AsyncInternals\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.dll
 C:\Repositories\AsyncInternals\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.pdb
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.csprojResolveAssemblyReference.cache
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.csproj.CoreCompileInputs.cache
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.AssemblyInfoInputs.cache
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.AssemblyInfo.cs
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.dll
+C:\Repositories\AsyncInternals\CustomAwaitable\obj\Debug\netcoreapp2.0\CustomAwaitable.pdb
+C:\Repositories\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.deps.json
+C:\Repositories\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.runtimeconfig.json
+C:\Repositories\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.runtimeconfig.dev.json
+C:\Repositories\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.dll
+C:\Repositories\AsyncInternals\CustomAwaitable\bin\Debug\netcoreapp2.0\CustomAwaitable.pdb
